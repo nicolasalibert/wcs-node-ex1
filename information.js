@@ -1,5 +1,5 @@
 const Student = {
-    name: "nicox",
+    name: "Nicolas",
     campus: "paris"
 };
 
