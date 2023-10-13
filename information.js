@@ -4,6 +4,5 @@ const Student = {
 };
 
 module.exports = {
-    name: Student.name,
-    campus: Student.campus
+    student: Student
 };
